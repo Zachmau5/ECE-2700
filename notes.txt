@@ -1,0 +1,44 @@
+gray code encoder
+B2,b1,b0        G2 G1 G0
+000             000
+001             001
+010             011
+011             010
+100             110
+101             111
+110             101
+111             100
+
+
+
+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
+
+b and g are std_logic_vector
+architecture behav of mod is
+
+begin
+    G <= "000" when B="000" else
+        "001" when "001"
+
+        old, try this new way:
+
+
+        DECLARE ARRAY TYPE
+
+
+end behave;
+
+
+
+architecture behav of mod is
+
+    type arraytype is array (0 to 7) of std_logic_cector(2 downto 0); --instide each, i.e 000, 001....
+    constant my_array: arraytype (:="000","001","010"...);
+
+begin
+
+    G<=my_array(
+
+
+
+end behave;
