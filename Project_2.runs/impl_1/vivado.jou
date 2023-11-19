@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Nov  8 19:52:56 2023
+# Process ID: 176082
+# Current directory: /home/zach/Desktop/school/fall_23/digital/project_2/project_2.runs/impl_1
+# Command line: vivado -log MICRO2.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source MICRO2.tcl -notrace
+# Log file: /home/zach/Desktop/school/fall_23/digital/project_2/project_2.runs/impl_1/MICRO2.vdi
+# Journal file: /home/zach/Desktop/school/fall_23/digital/project_2/project_2.runs/impl_1/vivado.jou
+# Running On: zachs-pc, OS: Linux, CPU Frequency: 4268.564 MHz, CPU Physical cores: 4, Host memory: 16403 MB
+#-----------------------------------------------------------
+source MICRO2.tcl -notrace

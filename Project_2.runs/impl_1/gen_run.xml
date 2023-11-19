@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7k70tfbv676-1" LaunchTime="1699498344">
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="MICRO2_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS" Name="MICRO2_routed.rqs"/>
+  <File Type="RBD_FILE" Name="MICRO2.rbd"/>
+  <File Type="NPI_FILE" Name="MICRO2.npi"/>
+  <File Type="RNPI_FILE" Name="MICRO2.rnpi"/>
+  <File Type="CFI_FILE" Name="MICRO2.cfi"/>
+  <File Type="RCFI_FILE" Name="MICRO2.rcfi"/>
+  <File Type="PL-PDI-FILE" Name="MICRO2_pld.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="MICRO2_soc.pdi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="MICRO2_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="MICRO2_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="MICRO2_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="MICRO2_methodology_drc_routed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="MICRO2_bus_skew_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="MICRO2_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="MICRO2_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="MICRO2_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="MICRO2_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="MICRO2_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="MICRO2_postroute_physopt_bb.dcp"/>
+  <File Type="PLACE-IO" Name="MICRO2_io_placed.rpt"/>
+  <File Type="OPT-DRC" Name="MICRO2_drc_opted.rpt"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="MICRO2.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="MICRO2.sysdef"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="MICRO2_postroute_physopt.dcp"/>
+  <File Type="BITSTR-MMI" Name="MICRO2.mmi"/>
+  <File Type="BITSTR-BMM" Name="MICRO2_bd.bmm"/>
+  <File Type="PHYSOPT-DCP" Name="MICRO2_physopt.dcp"/>
+  <File Type="PLACE-UTIL-PB" Name="MICRO2_utilization_placed.pb"/>
+  <File Type="BG-BGN" Name="MICRO2.bgn"/>
+  <File Type="OPT-DCP" Name="MICRO2_opt.dcp"/>
+  <File Type="OPT-HWDEF" Name="MICRO2.hwdef"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <File Type="BG-BIT" Name="MICRO2.bit"/>
+  <File Type="ROUTE-BUS-SKEW" Name="MICRO2_bus_skew_routed.rpt"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="PA-TCL" Name="MICRO2.tcl"/>
+  <File Type="REPORTS-TCL" Name="MICRO2_reports.tcl"/>
+  <File Type="PLACE-UTIL" Name="MICRO2_utilization_placed.rpt"/>
+  <File Type="BG-DRC" Name="MICRO2.drc"/>
+  <File Type="PLACE-CTRL" Name="MICRO2_control_sets_placed.rpt"/>
+  <File Type="PDI-FILE" Name="MICRO2.pdi"/>
+  <File Type="RDI-RDI" Name="MICRO2.vdi"/>
+  <File Type="BG-BIN" Name="MICRO2.bin"/>
+  <File Type="PLACE-DCP" Name="MICRO2_placed.dcp"/>
+  <File Type="BITSTR-MSK" Name="MICRO2.msk"/>
+  <File Type="PWROPT-DCP" Name="MICRO2_pwropt.dcp"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="MICRO2_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BITSTR-RBT" Name="MICRO2.rbt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="MICRO2_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-NKY" Name="MICRO2.nky"/>
+  <File Type="ROUTE-DRC" Name="MICRO2_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="MICRO2_drc_routed.pb"/>
+  <File Type="ROUTE-PWR" Name="MICRO2_power_routed.rpt"/>
+  <File Type="ROUTE-PWR-SUM" Name="MICRO2_power_summary_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="MICRO2_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="MICRO2_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="MICRO2_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="MICRO2_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="MICRO2_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="MICRO2_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="MICRO2_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="MICRO2_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="MICRO2_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="MICRO2_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="MICRO2_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="MICRO2_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="MICRO2_bus_skew_routed.rpx"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/ACCUM.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/ACCUM.vhd"/>
+        <Attr Name="ImportTime" Val="1699595517"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/ADD4.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/ADD4.vhd"/>
+        <Attr Name="ImportTime" Val="1699565786"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/ADD8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/ADD8.vhd"/>
+        <Attr Name="ImportTime" Val="1699567111"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ADDRESS_BUS.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/ADDRESS_BUS.vhd"/>
+        <Attr Name="ImportTime" Val="1699512947"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/ALU.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/ALU.vhd"/>
+        <Attr Name="ImportTime" Val="1699595473"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/EX_OR.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/EX_OR.vhd"/>
+        <Attr Name="ImportTime" Val="1699566361"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/MUX_8.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/MUX_8.vhd"/>
+        <Attr Name="ImportTime" Val="1699564331"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX_B.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/MUX_B.vhd"/>
+        <Attr Name="ImportTime" Val="1699515719"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX_BUFFER.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/MUX_BUFFER.vhd"/>
+        <Attr Name="ImportTime" Val="1699511810"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/full_add.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/ECE-2700/Vivado Code/Project 1/Project 1.srcs/sources_1/new/full_add.vhd"/>
+        <Attr Name="ImportTime" Val="1699566680"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/hold.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/hold.vhd"/>
+        <Attr Name="ImportTime" Val="1699391604"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/load.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/load.vhd"/>
+        <Attr Name="ImportTime" Val="1699397694"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/micro2.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/micro2.vhd"/>
+        <Attr Name="ImportTime" Val="1699596222"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../school/fall_23/digital/ECE 2700/project part 1 COMPLETED/project part 1 COMPLETED.srcs/sources_1/new/ADD8_NC.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MUX.vhd">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../school/fall_23/digital/project_2/project_2.srcs/sources_1/new/MUX.vhd"/>
+        <Attr Name="ImportTime" Val="1699379161"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="MICRO2"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
